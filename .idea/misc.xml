@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1239488731920619" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/drawable/notification.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/drawable/roundbtn.xml" value="0.137" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/activity_eventdetail.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/activity_futsaldetail.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/activity_maps.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/activity_permission.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/activity_userupdate.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/booking_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/fragment_bookings.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/fragment_event.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/fragment_post.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/fragment_user.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/layout/futsal_layout.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/menu/gallery_camera.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FutsalAppAndroid-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/grad.xml" value="0.2445" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.2445" />
+        <entry key="app/src/main/res/layout/activity_eventdetail.xml" value="0.22644927536231885" />
+        <entry key="app/src/main/res/layout/activity_futsaldetail.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22644927536231885" />
+        <entry key="app/src/main/res/layout/activity_postdetail.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.22644927536231885" />
+        <entry key="app/src/main/res/layout/activity_userupdate.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/booking_layout.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_bookings.xml" value="0.271286231884058" />
+        <entry key="app/src/main/res/layout/fragment_futsal.xml" value="0.3233695652173913" />
+        <entry key="app/src/main/res/layout/fragment_user.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_user_detail.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/futsal_layout.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
