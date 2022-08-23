@@ -233,5 +233,3 @@ class FutsaldetailActivity : AppCompatActivity() {
         notificationManager.notify(1, notification)
     }
 }
-
-//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
